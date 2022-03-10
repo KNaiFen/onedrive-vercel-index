@@ -53,8 +53,8 @@ module.exports = {
       link: 'https://nf.asoul-rec.com',
     },
     {
-      name: 'Telegram',
-      link: 'https://t.me/realSpencerWoo',
+      name: '弹幕站',
+      link: 'https://asdanmaku.com',
     },
   ],
 
